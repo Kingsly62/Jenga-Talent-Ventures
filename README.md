@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Desinic** locally, run this command on your git bash:
+To run **** locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -51,4 +51,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. -->
