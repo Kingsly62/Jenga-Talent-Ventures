@@ -368,7 +368,7 @@ body {
 
 .hero-title {
   color: var(--white);
-  font-size: var(--fs-1);
+  font-size: var(--fs-5);
   margin-block-end: 20px;
 }
 
