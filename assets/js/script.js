@@ -69,7 +69,7 @@ window.addEventListener("DOMContentLoaded", function () {
   function success() {
     form.reset();
     status.classList.add("success");
-    status.innerHTML = "Thanks!";
+    status.innerHTML = "Thanks! Warmly received by our team";
   }
 
   function error() {
