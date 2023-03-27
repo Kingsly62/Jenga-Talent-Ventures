@@ -1,7 +1,7 @@
-body {
+/* body {
     background-image: url(../images/bg-texture.png);
 
-}
+} */
 
 * {
     margin: 0;
@@ -647,3 +647,6 @@ footer .footer__copyright {
         justify-content: center;
     }
 }
+
+
+/* ================================== page loader ======================== */
